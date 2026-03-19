@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EGFR",
+    "name": "Epidermal Growth Factor Receptor",
+    "disease": "Lung cancer",
+    "description": "A protein that when mutated drives uncontrolled cell division"
+  },
+  {
+    "id": "BRCA1",
+    "name": "Breast Cancer Type 1 Susceptibility Protein",
+    "disease": "Breast cancer",
+    "description": "A tumor suppressor protein involved in DNA repair"
+  },
+  {
+    "id": "ACE2",
+    "name": "Angiotensin-Converting Enzyme 2",
+    "disease": "COVID-19",
+    "description": "The entry point for the SARS-CoV-2 virus into human cells"
+  },
+  {
+    "id": "BRAF",
+    "name": "B-Raf Proto-Oncogene, Serine/Threonine Kinase",
+    "disease": "Melanoma",
+    "description": "A protein involved in signaling inside cells that direct cell growth"
+  },
+  {
+    "id": "DRD2",
+    "name": "Dopamine Receptor D2",
+    "disease": "Schizophrenia",
+    "description": "A G protein-coupled receptor that is a primary target for antipsychotic drugs"
+  }
+]

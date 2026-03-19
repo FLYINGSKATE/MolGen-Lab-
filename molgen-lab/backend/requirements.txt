@@ -1,0 +1,19 @@
+# Setup Guide:
+# 1. Create a virtual environment: python -m venv venv
+# 2. Activate it: source venv/bin/activate (Unix) or venv\Scripts\activate (Windows)
+# 3. Install dependencies: pip install -r requirements.txt
+# 4. Note: rdkit may need to be installed via `pip install rdkit-pypi`
+
+fastapi
+uvicorn[standard]
+rdkit-pypi
+deepchem
+torch
+transformers
+huggingface_hub
+requests
+python-dotenv
+sqlalchemy
+aiosqlite
+pydantic
+ipykernel
